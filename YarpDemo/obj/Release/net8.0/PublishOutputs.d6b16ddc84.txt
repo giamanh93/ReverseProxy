@@ -1,0 +1,13 @@
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\YarpDemo.exe
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\YarpDemo.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\YarpDemo.deps.json
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\YarpDemo.runtimeconfig.json
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\YarpDemo.pdb
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\AnhTT\source\repos\ReverseProxy\YarpDemo\obj\Release\net8.0\PubTmp\Out\Yarp.ReverseProxy.dll

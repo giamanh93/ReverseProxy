@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="vienchauYarp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\AnhTT\\source\\repos\\ReverseProxy\\YarpDemo\\obj\\Release\\net8\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
